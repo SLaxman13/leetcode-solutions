@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/SLaxman13/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/SLaxman13/leetcode-solutions/tree/master/1025-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
