@@ -8,6 +8,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/SLaxman13/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2418-sort-the-people](https://github.com/SLaxman13/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,11 +17,13 @@
 | [1207-unique-number-of-occurrences](https://github.com/SLaxman13/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SLaxman13/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2418-sort-the-people](https://github.com/SLaxman13/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/SLaxman13/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SLaxman13/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2418-sort-the-people](https://github.com/SLaxman13/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -55,4 +58,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0338-counting-bits) |
+## Sorting
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/SLaxman13/leetcode-solutions/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
