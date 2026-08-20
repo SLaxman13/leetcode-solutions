@@ -8,6 +8,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/SLaxman13/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2418-sort-the-people](https://github.com/SLaxman13/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/SLaxman13/leetcode-solutions/tree/master/2418-sort-the-people) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
