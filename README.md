@@ -9,6 +9,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/SLaxman13/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/SLaxman13/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2418-sort-the-people](https://github.com/SLaxman13/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -67,4 +68,5 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/SLaxman13/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
