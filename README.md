@@ -51,6 +51,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/SLaxman13/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1952-three-divisors](https://github.com/SLaxman13/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -110,6 +111,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/SLaxman13/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -119,4 +121,16 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SLaxman13/leetcode-solutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SLaxman13/leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SLaxman13/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
