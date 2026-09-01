@@ -6,6 +6,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/SLaxman13/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/SLaxman13/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -61,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/SLaxman13/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0509-fibonacci-number) |
