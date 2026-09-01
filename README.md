@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SLaxman13/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/SLaxman13/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SLaxman13/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/SLaxman13/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/SLaxman13/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SLaxman13/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SLaxman13/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/SLaxman13/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -157,4 +161,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SLaxman13/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
