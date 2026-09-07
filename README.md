@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SLaxman13/leetcode-solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/SLaxman13/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/SLaxman13/leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SLaxman13/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SLaxman13/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/SLaxman13/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
