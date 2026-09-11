@@ -46,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SLaxman13/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/SLaxman13/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/SLaxman13/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SLaxman13/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/SLaxman13/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SLaxman13/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SLaxman13/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/SLaxman13/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -184,4 +186,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SLaxman13/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SLaxman13/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
