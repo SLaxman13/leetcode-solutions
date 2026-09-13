@@ -192,4 +192,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SLaxman13/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SLaxman13/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
