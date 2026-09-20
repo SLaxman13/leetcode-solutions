@@ -68,6 +68,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SLaxman13/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/SLaxman13/leetcode-solutions/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/SLaxman13/leetcode-solutions/tree/master/1025-divisor-game) |
