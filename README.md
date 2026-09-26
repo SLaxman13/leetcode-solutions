@@ -51,6 +51,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SLaxman13/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/SLaxman13/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SLaxman13/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2418-sort-the-people](https://github.com/SLaxman13/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
@@ -72,6 +73,7 @@
 | [0066-plus-one](https://github.com/SLaxman13/leetcode-solutions/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/SLaxman13/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1903-largest-odd-number-in-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/SLaxman13/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -201,4 +203,8 @@
 | [0584-find-customer-referee](https://github.com/SLaxman13/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/SLaxman13/leetcode-solutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/SLaxman13/leetcode-solutions/tree/master/1148-article-views-i) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
