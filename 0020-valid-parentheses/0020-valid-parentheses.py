@@ -7,6 +7,6 @@ class Solution:
                 if not stack or stack[-1] != pairs[ch]:
                     return False
                 stack.pop()
-            else:  # opening bracket
+            else: 
                 stack.append(ch)
         return not stack
