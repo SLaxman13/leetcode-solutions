@@ -17,6 +17,7 @@
 | [0229-majority-element-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SLaxman13/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/SLaxman13/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SLaxman13/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SLaxman13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SLaxman13/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SLaxman13/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/SLaxman13/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/SLaxman13/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2418-sort-the-people](https://github.com/SLaxman13/leetcode-solutions/tree/master/2418-sort-the-people) |
 ## Prefix Sum
@@ -152,6 +154,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/SLaxman13/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1768-merge-strings-alternately](https://github.com/SLaxman13/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -223,6 +226,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SLaxman13/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
@@ -236,4 +240,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SLaxman13/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SLaxman13/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
