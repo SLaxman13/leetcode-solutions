@@ -57,6 +57,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SLaxman13/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/SLaxman13/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/SLaxman13/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/SLaxman13/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -85,6 +86,7 @@
 | [0007-reverse-integer](https://github.com/SLaxman13/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/SLaxman13/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SLaxman13/leetcode-solutions/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/SLaxman13/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/SLaxman13/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SLaxman13/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SLaxman13/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
