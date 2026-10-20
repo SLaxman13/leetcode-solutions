@@ -86,6 +86,7 @@
 | [0007-reverse-integer](https://github.com/SLaxman13/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/SLaxman13/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SLaxman13/leetcode-solutions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/SLaxman13/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/SLaxman13/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -170,6 +171,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/SLaxman13/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
@@ -260,5 +262,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SLaxman13/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
