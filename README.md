@@ -86,6 +86,7 @@
 | [0007-reverse-integer](https://github.com/SLaxman13/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/SLaxman13/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SLaxman13/leetcode-solutions/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/SLaxman13/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/SLaxman13/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/SLaxman13/leetcode-solutions/tree/master/1025-divisor-game) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SLaxman13/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/SLaxman13/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
