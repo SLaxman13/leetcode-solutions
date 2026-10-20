@@ -92,6 +92,7 @@
 | [0326-power-of-three](https://github.com/SLaxman13/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/SLaxman13/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/SLaxman13/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/SLaxman13/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/SLaxman13/leetcode-solutions/tree/master/1952-three-divisors) |
