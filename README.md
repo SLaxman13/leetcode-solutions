@@ -11,6 +11,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/SLaxman13/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/SLaxman13/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SLaxman13/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -88,6 +89,7 @@
 | [0013-roman-to-integer](https://github.com/SLaxman13/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SLaxman13/leetcode-solutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/SLaxman13/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/SLaxman13/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/SLaxman13/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -174,6 +176,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SLaxman13/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/SLaxman13/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -188,6 +191,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SLaxman13/leetcode-solutions/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/SLaxman13/leetcode-solutions/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
@@ -196,6 +200,7 @@
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SLaxman13/leetcode-solutions/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/SLaxman13/leetcode-solutions/tree/master/1952-three-divisors) |
 ## Stack
 |  |
@@ -267,4 +272,12 @@
 | ------- |
 | [0258-add-digits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SLaxman13/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SLaxman13/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SLaxman13/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
