@@ -11,10 +11,7 @@ class Solution:
         for i in range(2, n):
             # If the number has NOT been crossed out yet, it is a prime!
             if is_composite[i] == 0:
-                count += 1
-                
-                # Cross out all future multiples of this prime
-                # Start crossing out from i * i up to n, skipping by i
+                count +=1
                 for multiple in range(i * i, n, i):
                     is_composite[multiple] = 1
                     
