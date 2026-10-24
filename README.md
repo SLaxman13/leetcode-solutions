@@ -245,6 +245,7 @@
 | [0184-department-highest-salary](https://github.com/SLaxman13/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/SLaxman13/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/SLaxman13/leetcode-solutions/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/SLaxman13/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/SLaxman13/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SLaxman13/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/SLaxman13/leetcode-solutions/tree/master/0595-big-countries) |
