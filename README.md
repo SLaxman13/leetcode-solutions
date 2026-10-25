@@ -89,6 +89,7 @@
 | [0013-roman-to-integer](https://github.com/SLaxman13/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SLaxman13/leetcode-solutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/SLaxman13/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/SLaxman13/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/SLaxman13/leetcode-solutions/tree/master/0326-power-of-three) |
