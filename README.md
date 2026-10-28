@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/SLaxman13/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/SLaxman13/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/SLaxman13/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/SLaxman13/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/SLaxman13/leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0136-single-number) |
