@@ -25,6 +25,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SLaxman13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SLaxman13/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SLaxman13/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/SLaxman13/leetcode-solutions/tree/master/0705-design-hashset) |
 | [1207-unique-number-of-occurrences](https://github.com/SLaxman13/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SLaxman13/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -47,6 +48,7 @@
 | [0496-next-greater-element-i](https://github.com/SLaxman13/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SLaxman13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/SLaxman13/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/SLaxman13/leetcode-solutions/tree/master/0705-design-hashset) |
 | [1207-unique-number-of-occurrences](https://github.com/SLaxman13/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SLaxman13/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SLaxman13/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SLaxman13/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/SLaxman13/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -306,4 +309,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/SLaxman13/leetcode-solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/SLaxman13/leetcode-solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
