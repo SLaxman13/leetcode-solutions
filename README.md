@@ -11,6 +11,7 @@
 | [0057-insert-interval](https://github.com/SLaxman13/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/SLaxman13/leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SLaxman13/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/SLaxman13/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/SLaxman13/leetcode-solutions/tree/master/0204-count-primes) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SLaxman13/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SLaxman13/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SLaxman13/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/SLaxman13/leetcode-solutions/tree/master/0338-counting-bits) |
