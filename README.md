@@ -277,6 +277,7 @@
 | [0626-exchange-seats](https://github.com/SLaxman13/leetcode-solutions/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/SLaxman13/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SLaxman13/leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/SLaxman13/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/SLaxman13/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1729-find-followers-count](https://github.com/SLaxman13/leetcode-solutions/tree/master/1729-find-followers-count) |
 ## Greedy
