@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SLaxman13/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SLaxman13/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/SLaxman13/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/SLaxman13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/SLaxman13/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SLaxman13/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -43,6 +44,7 @@
 | [0001-two-sum](https://github.com/SLaxman13/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SLaxman13/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SLaxman13/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/SLaxman13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SLaxman13/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -85,6 +87,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SLaxman13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/SLaxman13/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SLaxman13/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -149,6 +152,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SLaxman13/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/SLaxman13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SLaxman13/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SLaxman13/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -193,6 +197,7 @@
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SLaxman13/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SLaxman13/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Number Theory
 |  |
@@ -329,4 +334,8 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/SLaxman13/leetcode-solutions/tree/master/0705-design-hashset) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SLaxman13/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
